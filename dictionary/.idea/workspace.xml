@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="350ae81f-4eef-4f56-9a4e-b7f103836e87" name="Default Changelist" comment="" />
+    <list default="true" id="350ae81f-4eef-4f56-9a4e-b7f103836e87" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../convertmoney/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../convertmoney/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -38,6 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -127,11 +134,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -149,7 +151,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584684153369</updated>
-      <workItem from="1584684159783" duration="2552000" />
+      <workItem from="1584684159783" duration="2659000" />
+      <workItem from="1584752849344" duration="1437000" />
     </task>
     <servers />
   </component>
@@ -169,6 +172,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="973" y="201" width="800" height="684" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1920.1080@0.0.1920.1080" timestamp="1584684180782" />
+    <state x="1218" y="298" width="420" height="498" key="FileChooserDialogImpl" timestamp="1584756099292">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1218" y="298" width="420" height="498" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1584756099292" />
     <state width="612" height="284" key="GridCell.Tab.0.bottom" timestamp="1584685363680">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -217,9 +224,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="612" height="284" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584685363616" />
-    <state x="538" y="82" width="1372" height="922" key="new project wizard" timestamp="1584687780285">
+    <state x="538" y="82" width="1372" height="922" key="new project wizard" timestamp="1584756132018">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="538" y="82" width="1372" height="922" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1584687780285" />
+    <state x="538" y="82" width="1372" height="922" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1584756132018" />
   </component>
 </project>

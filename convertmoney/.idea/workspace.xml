@@ -6,7 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a424cdd-696e-493a-9a87-78b7d2ee7355" name="Default Changelist" comment="" />
+    <list default="true" id="1a424cdd-696e-493a-9a87-78b7d2ee7355" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dictionary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dictionary/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greeting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../greeting/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +24,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -36,8 +43,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -151,6 +160,10 @@
       <updated>1584681320237</updated>
       <workItem from="1584681322965" duration="1782000" />
       <workItem from="1584684064589" duration="2076000" />
+      <workItem from="1584752849551" duration="1929000" />
+      <workItem from="1584759077484" duration="85000" />
+      <workItem from="1584759715879" duration="11000" />
+      <workItem from="1584762273310" duration="603000" />
     </task>
     <servers />
   </component>
@@ -214,5 +227,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="619" height="287" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584682513063" />
+    <state x="538" y="133" width="1372" height="820" key="new project wizard" timestamp="1584759159115">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="538" y="133" width="1372" height="820" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1584759159115" />
   </component>
 </project>
