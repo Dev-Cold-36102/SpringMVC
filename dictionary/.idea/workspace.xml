@@ -7,7 +7,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="350ae81f-4eef-4f56-9a4e-b7f103836e87" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../convertmoney/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../convertmoney/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Caculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Caculator/.idea/artifacts/Caculator_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Caculator/.idea/libraries/Spring_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Caculator/.idea/libraries/Spring_MVC_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Caculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Caculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Caculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Caculator/Caculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Caculator/src/controllers/caculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Caculator/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Caculator/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Caculator/web/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Caculator/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sanwich/Sanwich.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sanwich/src/controller/home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sanwich/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sanwich/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sanwich/web/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +60,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -153,6 +172,7 @@
       <updated>1584684153369</updated>
       <workItem from="1584684159783" duration="2659000" />
       <workItem from="1584752849344" duration="1437000" />
+      <workItem from="1584861712598" duration="2085000" />
     </task>
     <servers />
   </component>
