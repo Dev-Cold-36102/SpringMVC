@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="afc86936-bfba-4fd0-bac4-b08d582618ae" name="Default Changelist" comment="" />
+    <list default="true" id="afc86936-bfba-4fd0-bac4-b08d582618ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/repository/CustomerRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/services/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/.idea/artifacts/login_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/.idea/libraries/Spring_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/.idea/libraries/Spring_MVC_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/lib/spring-aop-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/lib/spring-aspects-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/lib/spring-beans-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/lib/spring-context-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/lib/spring-context-support-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/lib/spring-core-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/lib/spring-expression-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/lib/spring-instrument-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/lib/spring-jdbc-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/lib/spring-jms-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/lib/spring-messaging-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/lib/spring-orm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/lib/spring-oxm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/lib/spring-test-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/lib/spring-tx-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/login.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/out/artifacts/login_war_exploded/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/out/artifacts/login_war_exploded/WEB-INF/classes/com/codegym/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/out/artifacts/login_war_exploded/WEB-INF/classes/com/codegym/dao/UserDao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/out/artifacts/login_war_exploded/WEB-INF/classes/com/codegym/model/Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/out/artifacts/login_war_exploded/WEB-INF/classes/com/codegym/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/out/artifacts/login_war_exploded/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/out/artifacts/login_war_exploded/WEB-INF/views/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/out/artifacts/login_war_exploded/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/out/artifacts/login_war_exploded/WEB-INF/views/user.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/out/artifacts/login_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/out/production/login/com/codegym/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/out/production/login/com/codegym/dao/UserDao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/out/production/login/com/codegym/model/Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/out/production/login/com/codegym/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/com/codegym/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/com/codegym/dao/UserDao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/com/codegym/model/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/src/com/codegym/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/web/WEB-INF/views/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/web/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/web/WEB-INF/views/user.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/controller/CustomerController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,8 +72,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -32,6 +88,7 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1ZWzXsYffeYszjNtcVQbokl4YT5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -42,8 +99,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../product" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -154,7 +211,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584969680821</updated>
-      <workItem from="1584969684677" duration="2848000" />
+      <workItem from="1584969684677" duration="4889000" />
+      <workItem from="1584981260693" duration="2101000" />
+      <workItem from="1585007684352" duration="3467000" />
     </task>
     <servers />
   </component>
@@ -162,10 +221,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="973" y="201" width="847" height="684" key="#Project_Structure" timestamp="1584971339483">
+    <state x="973" y="201" width="847" height="684" key="#Project_Structure" timestamp="1585018499410">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="973" y="201" width="847" height="684" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1584971339483" />
+    <state x="973" y="201" width="847" height="684" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1585018499410" />
     <state x="836" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584969798476">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -174,10 +233,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1248" y="252" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1584970538740" />
-    <state x="1179" y="301" width="424" height="491" key="FileChooserDialogImpl" timestamp="1584973154291">
+    <state x="1179" y="301" width="424" height="491" key="FileChooserDialogImpl" timestamp="1584984048679">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1179" y="301" width="424" height="491" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1584973154291" />
+    <state x="1179" y="301" width="424" height="491" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1584984048679" />
     <state width="619" height="284" key="GridCell.Tab.0.bottom" timestamp="1584973102073">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -230,5 +289,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="898" y="175" width="1022" height="737" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1584969864295" />
+    <state x="548" y="114" width="1372" height="822" key="new project wizard" timestamp="1585036017911">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="548" y="114" width="1372" height="822" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1585036017911" />
   </component>
 </project>

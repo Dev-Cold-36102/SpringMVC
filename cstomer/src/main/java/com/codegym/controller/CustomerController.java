@@ -62,4 +62,5 @@ public class CustomerController {
         model.addAttribute("customer", customerService.findById(id));
         return "/view";
     }
+
 }
