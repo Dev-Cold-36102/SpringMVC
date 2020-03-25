@@ -2,50 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afc86936-bfba-4fd0-bac4-b08d582618ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.gradle/5.2.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.idea/modules/UploadFile.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.idea/modules/UploadFile.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/build/classes/java/main/controller/MyFileUploadController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/build/classes/java/main/form/MyUploadForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/build/libs/UploadFile-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/build/tmp/war/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/src/main/java/controller/MyUploadFileController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/src/main/java/form/MyUploadForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/src/main/webapp/views/_menu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/src/main/webapp/views/uploadMultiFile.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/src/main/webapp/views/uploadOneFile.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/src/main/webapp/views/uploadResult.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../login/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../login/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +161,7 @@
       <updated>1584969680821</updated>
       <workItem from="1584969684677" duration="4889000" />
       <workItem from="1584981260693" duration="2101000" />
-      <workItem from="1585007684352" duration="4834000" />
+      <workItem from="1585007684352" duration="4850000" />
     </task>
     <servers />
   </component>
@@ -279,9 +237,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="898" y="175" width="1022" height="737" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1584969864295" />
-    <state x="548" y="114" width="1372" height="822" key="new project wizard" timestamp="1585036017911">
+    <state x="548" y="114" width="1372" height="822" key="new project wizard" timestamp="1585040237731">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="548" y="114" width="1372" height="822" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1585036017911" />
+    <state x="548" y="114" width="1372" height="822" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1585040237731" />
   </component>
 </project>
