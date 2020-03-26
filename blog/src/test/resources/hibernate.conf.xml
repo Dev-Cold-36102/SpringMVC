@@ -7,7 +7,7 @@
     <session-factory>
 
         <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
-        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/pictureofday</property>
+        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/blogmanage</property>
         <property name="hibernate.connection.username">root</property>
         <property name="hibernate.connection.password">Mattroicuatoi.36102</property>
         <property name="hibernate.dialect">org.hibernate.dialect.MySQL5Dialect</property>
@@ -16,7 +16,7 @@
 
         <property name="hibernate.hbm2ddl.auto">create-drop</property>
 
-        <mapping class="com.codegym.models.Comment"/>
+        <mapping class="com.codegym.models.Blog" />
 
     </session-factory>
 </hibernate-configuration>

@@ -9,7 +9,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 import javax.persistence.EntityManager;
 import java.util.List;
 
-public class CommentHibernateRepository implements ICommentService, ICommentRepository {
+public class CommentHibernateRepository implements  ICommentRepository {
     SessionFactory sessionFactory;
     EntityManager entityManager;
 

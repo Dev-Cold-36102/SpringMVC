@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="">
+<head>
+    <meta charset="UTF-8">
+    <title>Dự án Spring sử dụng JPA</title>
+</head>
+<body>
+
+<h1 style="color :red">DEV.COLD BLOG</h1>
+
+<h3 style="color: rebeccapurple">Danh sách blog:</h3>
+
+<ul>
+
+    <li th:each="blodg:${blogs}">
+        <p th:text="${blog.title}"></p>
+    </li>
+
+</ul>
+<a href="/addblog" style="color: blue;text-decoration: none">viet bai</a>
+
+</body>
+</html>
