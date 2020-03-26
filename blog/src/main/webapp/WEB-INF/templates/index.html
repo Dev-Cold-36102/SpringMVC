@@ -3,21 +3,44 @@
 <head>
     <meta charset="UTF-8">
     <title>Dự án Spring sử dụng JPA</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <style>
+        table {
+            border: 5px;
+            border: chartreuse;
+        }
+    </style>
 </head>
 <body>
 
 <h1 style="color :red">DEV.COLD BLOG</h1>
+<a href="/addblog" style="color: blue;text-decoration: none">viet bai</a>
 
 <h3 style="color: rebeccapurple">Danh sách blog:</h3>
+<div class="container">
+<table>
+    <tr>
+        <td>STT</td>
+        <td>tieu de</td>
+        <td>xem</td>
+        <td>sua</td>
+        <td>xoa</td>
+    </tr>
+    <div th:each="blog:${blogs}">
+    <tr>
+        <td></td>
+        <td> <p th:text="${blog.title}"></p> </td>
+        <td><a href="/view" name="${blog.title}" >x</a></td>
+        <td><a href="/edit" name="${blog.title}">x</a></td>
+        <td><a href="/delete" name="${blog.title}">x</a></td>
 
-<ul>
-
-    <li th:each="blodg:${blogs}">
-        <p th:text="${blog.title}"></p>
-    </li>
-
-</ul>
-<a href="/addblog" style="color: blue;text-decoration: none">viet bai</a>
+    </tr>
+    </div>
+</table>
+    <button action="" v
+</div>
 
 </body>
 </html>
