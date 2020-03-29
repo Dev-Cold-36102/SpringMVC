@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:th="">
 <head>
     <meta charset="UTF-8">
     <title>devcoldblog</title>
@@ -10,18 +10,18 @@
 </head>
 <body>
 <div class="container">
-    <form action="/view" method="post">
+    <form action="/home">
         <div class="form-group">
             <label for="title">Tieu de</label>
-            <input id="title" class="form-control" name="title" value="${blog.title}">
+            <input id="title" class="form-control" name="title" th:value="${blog.title}">
         </div>
         <div class="form-group">
             <label for="content">Noi dung:</label>
-            <textarea value="${blog.content}" cols="30" rows="15" id="content" name="content" class="form-control"></textarea>
+            <textarea cols="30" rows="10" id="content" name="content" class="form-control" th:text="${blog.content}"> </textarea>
         </div>
         <div class="form-group">
             <label for="author">ten tac gia:</label>
-            <input name="author" value="${blog.author}" id="author" class="form-control" />
+            <input name="author" th:value="${blog.author}" id="author" class="form-control" />
         </div>
 
         <div class="form-group">

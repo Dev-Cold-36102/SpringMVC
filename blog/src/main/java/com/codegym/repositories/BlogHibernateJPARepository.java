@@ -7,20 +7,21 @@ import javax.persistence.PersistenceContext;
 import javax.persistence.TypedQuery;
 import javax.transaction.Transactional;
 import java.util.List;
+
 @Transactional
-public class BlogHibernateJPARepository implements IBlogRepository  {
+public class BlogHibernateJPARepository implements IBlogRepository {
     @PersistenceContext
     EntityManager entityManager;
 
     @Override
     public List<Blog> getAllBlog() {
-        String query="SELECT S FROM Blog S";
-        return this.entityManager.createQuery(query,Blog.class).getResultList();
+        String query = "SELECT S FROM Blog S";
+        return this.entityManager.createQuery(query, Blog.class).getResultList();
     }
 
     @Override
     public Blog addBlog(Blog blog) {
-        if (blog.getId()!=null && blog.getId()>0){
+        if (blog.getId() != null && blog.getId() > 0) {
             this.entityManager.merge(blog);
         } else {
             this.entityManager.persist(blog);
@@ -29,11 +30,12 @@ public class BlogHibernateJPARepository implements IBlogRepository  {
     }
 
     @Override
-    public Blog updateBlog(Blog blog) {
-        String query="DELETE FROM Blog WHERE id= :idBlog";
-        TypedQuery<Blog> typedQuery=this.entityManager.createQuery(query,Blog.class);
-        typedQuery.setParameter("idBlog", blog.getId());
+    public void updateBlog(Blog blog) {
+        this.entityManager.merge(blog);
+    }
 
-        return addBlog(blog);
+    @Override
+    public void remoteBlog(Blog blog) {
+        this.entityManager.remove(blog);
     }
 }

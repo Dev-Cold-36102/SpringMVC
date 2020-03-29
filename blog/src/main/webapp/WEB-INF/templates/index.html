@@ -32,14 +32,13 @@
     <tr>
         <td></td>
         <td> <p th:text="${blog.title}"></p> </td>
-        <td><a href="/view" name="${blog.title}" >x</a></td>
-        <td><a href="/edit" name="${blog.title}">x</a></td>
-        <td><a href="/delete" name="${blog.title}">x</a></td>
+        <td><a th:href="@{/view?title=__${blog.title}__}">x</a></td>
+        <td><a th:href="@{/edit?title=__${blog.title}__}">x</a></td>
+        <td><a th:href="@{/remove?title=__${blog.title}__}">x</a></td>
 
     </tr>
     </div>
 </table>
-    <button action="" v
 </div>
 
 </body>
