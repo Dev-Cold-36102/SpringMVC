@@ -55,7 +55,7 @@ public class WebAppConfig extends WebMvcConfigurerAdapter implements Application
     @Bean
     public MessageSource messageSource(){
         ResourceBundleMessageSource messageSource=new ResourceBundleMessageSource();
-        messageSource.setBasename("ValidationMessages");
+        messageSource.setBasename("ValidationMessage");
         return messageSource;
     }
 
