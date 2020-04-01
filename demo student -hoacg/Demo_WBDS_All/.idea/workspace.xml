@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc24857a-ea23-42f9-a013-93e790d52637" name="Default Changelist" comment="" />
+    <list default="true" id="bc24857a-ea23-42f9-a013-93e790d52637" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../clone/demo student -hoacg/Demo_WBDS_All" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/demo student -hoacg/Demo_WBDS_All" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/uploadFile-khactung/c1119h1-demo-jpa" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/uploadFile-khactung/c1119h1-demo-jpa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/validate-info-user/validate-infor-user" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/validate-info-user/validate-infor-user" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +29,7 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -35,6 +39,7 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1ZsoL7j1v4iX2Xb7yURDOpEOGbY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -157,6 +162,7 @@
       <workItem from="1585650954056" duration="579000" />
       <workItem from="1585651551889" duration="8058000" />
       <workItem from="1585666873984" duration="609000" />
+      <workItem from="1585698731685" duration="26000" />
     </task>
     <servers />
   </component>
