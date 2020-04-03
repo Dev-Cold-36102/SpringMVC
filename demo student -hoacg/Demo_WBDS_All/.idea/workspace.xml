@@ -2,9 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc24857a-ea23-42f9-a013-93e790d52637" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../customer-validate/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customer-validate/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customer-validate/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customer-validate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customer-validate/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customer-validate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customer-validate/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customer-validate/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customer-validate/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customer-validate/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customer-validate/src/main/java/com/codegym/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customer-validate/src/main/java/com/codegym/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customer-validate/src/main/java/com/codegym/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customer-validate/src/main/java/com/codegym/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customer-validate/src/main/java/com/codegym/repositories/IUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customer-validate/src/main/java/com/codegym/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customer-validate/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customer-validate/src/main/webapp/WEB-INF/views/result.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../clone/demo student -hoacg/Demo_WBDS_All" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/demo student -hoacg/Demo_WBDS_All" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../clone/uploadFile-khactung/c1119h1-demo-jpa" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/uploadFile-khactung/c1119h1-demo-jpa" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../clone/validate-info-user/validate-infor-user" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/validate-info-user/validate-infor-user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../validate-customer/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../validate-customer/.idea/gradle.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,6 +182,7 @@
       <workItem from="1585651551889" duration="8058000" />
       <workItem from="1585666873984" duration="609000" />
       <workItem from="1585698731685" duration="26000" />
+      <workItem from="1585706053277" duration="13000" />
     </task>
     <servers />
   </component>
