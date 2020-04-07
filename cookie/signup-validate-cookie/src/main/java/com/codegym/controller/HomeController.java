@@ -1,5 +1,6 @@
 package com.codegym.controller;
 
+
 import com.codegym.model.User;
 import com.codegym.service.IUserService;
 import com.codegym.validator.UserValidation;
@@ -20,7 +21,8 @@ public class HomeController {
     HttpSession httpSession;
 
     @Autowired
-    private IUserService userService;
+    IUserService userService;
+
 
     @GetMapping("/signin")
     public String showForm(@CookieValue(defaultValue = "") String name, @CookieValue(defaultValue = "") String password, Model model) {
@@ -31,8 +33,8 @@ public class HomeController {
     }
 
     @PostMapping("/signin")
-    public String doSignin(@ModelAttribute User user, @RequestParam(defaultValue = "") String rememberMe, HttpServletResponse response, Model model){
-        if (userService.checkSignin(user)){
+    public String doSignin(@ModelAttribute User user, @RequestParam(defaultValue = "") String rememberMe, HttpServletResponse response, Model model) {
+        if (userService.checkSignin(user)) {
             if (rememberMe.equals("remember-me")) {
                 Cookie saveName = new Cookie("name", user.getName());
                 Cookie savedPassword = new Cookie("password", user.getPassword());
@@ -51,27 +53,30 @@ public class HomeController {
     }
 
     @GetMapping("/signup")
-    public String showFormSignup(){
+    public String showFormSignup(Model model) {
+        model.addAttribute("user",new User());
         return "sign-up";
     }
 
     @PostMapping("/signup")
-    public String doSignup(@Validated @ModelAttribute User user, BindingResult bindingResult, Model model, @RequestParam String repassword){
-        new UserValidation().validate(user,bindingResult);
+    public String doSignup(@Validated @ModelAttribute("user") User user, BindingResult bindingResult, Model model, @RequestParam String repassword) {
+        new UserValidation().validate(user, bindingResult);
         if (bindingResult.hasFieldErrors()){
+//            model.addAttribute("message","error");
+
             return "sign-up";
         }
-        if (!user.getPassword().equals(repassword)){
-            model.addAttribute("message","pass not match");
+        if (!user.getPassword().equals(repassword)) {
+            model.addAttribute("messageRePass", "pass not match");
             return "sign-up";
         }
 
-        if (userService.isUserExist(user)){
-            model.addAttribute("message","ten dang nhap da ton tai");
-            return"sign-up";
+        if (userService.isUserExist(user)) {
+            model.addAttribute("message", "ten dang nhap da ton tai");
+            return "sign-up";
         } else {
             userService.addUser(user);
-            model.addAttribute("message","dang ki thanh cong");
+            model.addAttribute("message", "dang ki thanh cong");
             return "home";
         }
     }

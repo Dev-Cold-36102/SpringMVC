@@ -10,7 +10,7 @@ import java.util.regex.Pattern;
 public class UserValidation implements Validator {
     @Override
     public boolean supports(Class<?> clazz) {
-        return String.class.isAssignableFrom(clazz);
+        return User.class.isAssignableFrom(clazz);
     }
 
     @Override
@@ -21,6 +21,13 @@ public class UserValidation implements Validator {
         ValidationUtils.rejectIfEmpty(errors, "name", "value.empty");
         ValidationUtils.rejectIfEmpty(errors, "password", "value.empty");
 
+        Pattern patternUpper=Pattern.compile("([A-Z])");
+        Pattern patternLower=Pattern.compile("([a-z])");
+        Pattern patternNumber=Pattern.compile("([0-9])");
+        Pattern patternSpecialCharacter=Pattern.compile("([^A-Za-z0-9])");
+
+
+
         if (name.length() < 5 || name.length() > 15) {
             errors.rejectValue("name", "name.length");
         }
@@ -29,15 +36,19 @@ public class UserValidation implements Validator {
             errors.rejectValue("password","pass.length");
         }
 
-        if (!Pattern.matches("[A-Z]+?", password)) {
+        if (!patternUpper.matcher(password).find()) {
             errors.rejectValue("password","pass.upper");
         }
 
-        if (!Pattern.matches("[0-9]+?",password)){
+        if (!patternNumber.matcher(password).find()){
             errors.rejectValue("password","pass.number");
         }
 
-        if (!Pattern.matches("[^A-Za-z0-9]+?",password)){
+        if (!patternLower.matcher(password).find()){
+            errors.rejectValue("password","pass.lower");
+        }
+
+        if (!patternSpecialCharacter.matcher(password).find()){
             errors.rejectValue("password","pass.specialcharater");
         }
     }

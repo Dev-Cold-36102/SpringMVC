@@ -8,5 +8,5 @@ public interface IUserRepository {
     List<User> getAllUser();
     void addUser(User user);
     void updateUser(User user);
-    boolean isUserExist(User user);
+
 }

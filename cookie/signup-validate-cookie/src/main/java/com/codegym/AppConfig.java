@@ -1,11 +1,11 @@
 package com.codegym;
 
-
 import com.codegym.repositories.IUserRepository;
+import com.codegym.repositories.Impl.UserRepository;
 import com.codegym.service.IUserService;
-import com.codegym.service.Imp.UserService;
-import com.codegym.service.IUserService;
+import com.codegym.service.Impl.UserService;
 import org.springframework.beans.BeansException;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;
 import org.springframework.context.MessageSource;
@@ -37,10 +37,9 @@ import java.util.Properties;
 @Configuration
 @EnableWebMvc
 @EnableTransactionManagement
-@ComponentScan("com.codegym.controller")
+@ComponentScan({"com.codegym"})
 @EnableJpaRepositories("com.codegym.repositories")
 public class AppConfig extends WebMvcConfigurerAdapter implements ApplicationContextAware {
-
     ApplicationContext applicationContext;
 
     @Override
@@ -49,69 +48,81 @@ public class AppConfig extends WebMvcConfigurerAdapter implements ApplicationCon
     }
 
     @Bean
-    public SpringResourceTemplateResolver templateResolver(){
-        SpringResourceTemplateResolver templateResolver=new SpringResourceTemplateResolver();
+    public SpringResourceTemplateResolver templateResolver() {
+        SpringResourceTemplateResolver templateResolver = new SpringResourceTemplateResolver();
         templateResolver.setApplicationContext(this.applicationContext);
-
         templateResolver.setPrefix("/WEB-INF/views/");
         templateResolver.setSuffix(".html");
-
         templateResolver.setTemplateMode(TemplateMode.HTML);
         return templateResolver;
     }
 
     @Bean
-    public TemplateEngine templateEngine(){
-        TemplateEngine templateEngine=new SpringTemplateEngine();
+    public TemplateEngine templateEngine() {
+        TemplateEngine templateEngine = new SpringTemplateEngine();
         templateEngine.setTemplateResolver(templateResolver());
         return templateEngine;
-
     }
 
     @Bean
-    public ThymeleafViewResolver viewResolver(){
-        ThymeleafViewResolver viewResolver=new ThymeleafViewResolver();
+    public ThymeleafViewResolver viewResolver() {
+        ThymeleafViewResolver viewResolver = new ThymeleafViewResolver();
         viewResolver.setTemplateEngine(templateEngine());
         viewResolver.setCharacterEncoding("UTF-8");
         return viewResolver;
     }
 
     @Bean
-    public DataSource dataSource(){
-        DriverManagerDataSource dataSource=new DriverManagerDataSource();
+    public IUserRepository userRepository(){
+        return new UserRepository();
+    }
+
+    @Bean
+    public IUserService userService(){
+        IUserService userService = new UserService();
+        return userService;
+    }
+
+
+    @Bean
+    public DataSource dataSource() {
+        DriverManagerDataSource dataSource = new DriverManagerDataSource();
         dataSource.setDriverClassName("com.mysql.jdbc.Driver");
         dataSource.setUrl("jdbc:mysql://localhost:3306/Login");
         dataSource.setUsername("root");
         dataSource.setPassword("Mattroicuatoi.36102");
-
         return dataSource;
     }
 
     @Bean
-    public EntityManager entityManager(EntityManagerFactory entityManagerFactory){
+    @Qualifier(value = "entityManager")
+    public EntityManager entityManager(EntityManagerFactory entityManagerFactory) {
         return entityManagerFactory.createEntityManager();
+
     }
+
 
     @Bean
-    public LocalContainerEntityManagerFactoryBean entityManagerFactory(){
-        LocalContainerEntityManagerFactoryBean emf=new LocalContainerEntityManagerFactoryBean();
-        emf.setDataSource(dataSource());
-        emf.setPackagesToScan(new String[]{"com.codegym.model"});
+    public LocalContainerEntityManagerFactoryBean entityManagerFactory() {
+        LocalContainerEntityManagerFactoryBean em = new LocalContainerEntityManagerFactoryBean();
+        em.setDataSource(dataSource());
+        em.setPackagesToScan(new String[]{"com.codegym.model"});
 
-        JpaVendorAdapter vendorAdapter=new HibernateJpaVendorAdapter();
-        emf.setJpaVendorAdapter(vendorAdapter);
-        emf.setJpaProperties(additionalProperties());
-        return emf;
+        JpaVendorAdapter vendorAdapter = new HibernateJpaVendorAdapter();
+        em.setJpaVendorAdapter(vendorAdapter);
+        em.setJpaProperties(additionalProperties());
+        return em;
     }
+
     @Bean
     public PlatformTransactionManager transactionManager(EntityManagerFactory entityManagerFactory) {
         JpaTransactionManager transactionManager = new JpaTransactionManager();
         transactionManager.setEntityManagerFactory(entityManagerFactory);
-
         return transactionManager;
     }
 
-    private Properties additionalProperties() {
+    @Bean
+    public Properties additionalProperties() {
         Properties properties = new Properties();
         properties.setProperty("hibernate.hbm2ddl.auto", "update");
         properties.setProperty("hibernate.dialect", "org.hibernate.dialect.MySQL5Dialect");
@@ -125,10 +136,5 @@ public class AppConfig extends WebMvcConfigurerAdapter implements ApplicationCon
         messageSource.setBasename("ValidationMessage");
         messageSource.setDefaultEncoding("UTF-8");
         return messageSource;
-    }
-
-    @Bean
-    public IUserService userService(){
-        return new UserService();
     }
 }

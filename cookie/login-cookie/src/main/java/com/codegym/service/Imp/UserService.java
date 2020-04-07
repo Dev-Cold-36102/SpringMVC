@@ -5,14 +5,14 @@ import com.codegym.repositories.IUserRepository;
 import com.codegym.repositories.Impl.UserRepository;
 import com.codegym.service.IUserService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
 
 import java.util.HashMap;
 import java.util.List;
 
 public class UserService implements IUserService {
-    public UserService() {
-    }
+
+    @Autowired
+    private IUserRepository userRepository;
 
     public HashMap<String, String> getUserMap() {
         HashMap<String, String> userMap = new HashMap<>();
@@ -25,8 +25,11 @@ public class UserService implements IUserService {
 
     public HashMap<String, String> userMap = getUserMap();
 
-    @Autowired
-    UserRepository userRepository;
+
+
+
+    public UserService() {
+    }
 
     @Override
     public List<User> getAllUser() {
@@ -45,7 +48,14 @@ public class UserService implements IUserService {
 
     @Override
     public boolean isUserExist(User user) {
-        return userRepository.isUserExist(user);
+        if (!userMap.isEmpty()) {
+            if (userMap.containsKey(user.getName())) {
+                return true;
+            } else
+                return false;
+        } else
+            return false;
+
     }
 
     @Override

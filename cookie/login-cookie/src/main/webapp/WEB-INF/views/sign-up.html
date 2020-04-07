@@ -83,16 +83,11 @@
     <p th:text="${message}"></p>
     <h1 class="h3 mb-3 font-weight-normal">Please sign up</h1>
     <label for="inputName" class="sr-only">USERNAME: </label>
-    <input name="name" th:value="${name}" type="text" id="inputName" class="form-control" placeholder="user name" required autofocus>
+    <input name="name" type="text" id="inputName" class="form-control" placeholder="user name" required autofocus>
     <label for="inputPassword" class="sr-only">Password</label>
-    <input name="password" type="password" th:value="${password}" id="inputPassword" class="form-control" placeholder="Password" required>
+    <input name="password" type="password"  id="inputPassword" class="form-control" placeholder="Password" required>
     <label for="reInputPassword" class="sr-only">Password Again</label>
     <input name="repassword" type="password"  id="reInputPassword" class="form-control" placeholder="Password Again" required>
-    <div class="checkbox mb-3">
-        <label>
-            <input name="rememberMe" type="checkbox" value="remember-me"> Remember me
-        </label>
-    </div>
     <button class="btn btn-lg btn-primary btn-block" type="submit">Sign up</button>
      a member?
     <a href="/signin">Sign In</a>

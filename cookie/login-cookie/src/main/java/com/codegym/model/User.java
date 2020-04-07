@@ -4,6 +4,8 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Table;
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.NotEmpty;
 
 @Entity
 @Table(name = "Users")
@@ -12,8 +14,8 @@ public class User {
     @Id
     private String name;
 
-  //  @NotEmpty
-    //@NotBlank(message = "password can not contain blank")
+    @NotEmpty
+    @NotBlank(message = "password can not contain blank")
     private String password;
 
     public User(String name, String password) {
