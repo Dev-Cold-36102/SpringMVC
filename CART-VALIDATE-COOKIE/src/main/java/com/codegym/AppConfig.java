@@ -102,7 +102,7 @@ public class AppConfig extends WebMvcConfigurerAdapter implements ApplicationCon
     }
 
     @Bean
-    public DataSource dataSourceProduct() {
+    public DataSource dataSource() {
         DriverManagerDataSource dataSource = new DriverManagerDataSource();
         dataSource.setDriverClassName("com.mysql.jdbc.Driver");
         dataSource.setUrl("jdbc:mysql://localhost:3306/CART");
@@ -124,9 +124,9 @@ public class AppConfig extends WebMvcConfigurerAdapter implements ApplicationCon
     }
 
     @Bean
-    public LocalContainerEntityManagerFactoryBean entityManagerFactoryProduct() {
+    public LocalContainerEntityManagerFactoryBean entityManagerFactory() {
         LocalContainerEntityManagerFactoryBean emf = new LocalContainerEntityManagerFactoryBean();
-        emf.setDataSource(dataSourceProduct());
+        emf.setDataSource(dataSource());
         emf.setPackagesToScan(new String[]{"com.codegym.model"});
 
         JpaVendorAdapter vendorAdapter = new HibernateJpaVendorAdapter();

@@ -2,135 +2,249 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62070420-b475-4e1c-a551-72c0f97dfad9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/libs/CART-VALIDATE-COOKIE-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/libs/CART-VALIDATE-COOKIE-1.0.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/AppInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/controller/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/model/ProductForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/repository/IProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/repository/IUserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/repository/Impl/ProductRepositoryImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/repository/Impl/UserRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/service/IProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/service/IUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/service/Impl/ProductServiceImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/service/Impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/global_config_app.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/build/classes/java/main/com/codegym/AppConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/build/classes/java/main/com/codegym/AppInit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/build/classes/java/main/com/codegym/controller/PictureController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/build/classes/java/main/com/codegym/model/Picture.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/build/classes/java/main/com/codegym/model/PictureForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/build/classes/java/main/com/codegym/repositories/IPictureRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/build/classes/java/main/com/codegym/repositories/Impl/PictureRepositoryImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/build/classes/java/main/com/codegym/service/IPictureService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/build/classes/java/main/com/codegym/service/Impl/PictureServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/build/libs/UploadFile-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/build/libs/UploadFile-1.0.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/build/resources/main/global_config_app.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/build/tmp/war/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/src/main/java/com/codegym/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/src/main/java/com/codegym/AppInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/src/main/java/com/codegym/controller/PictureController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/src/main/java/com/codegym/model/Picture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/src/main/java/com/codegym/model/PictureForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/src/main/java/com/codegym/repositories/IPictureRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/src/main/java/com/codegym/repositories/Impl/PictureRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/src/main/java/com/codegym/service/IPictureService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/src/main/java/com/codegym/service/Impl/PictureServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/src/main/resources/global_config_app.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UploadFile/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/build/classes/java/main/com/codegym/AppConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/build/classes/java/main/com/codegym/AppInit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/build/classes/java/main/com/codegym/controller/PictureController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/build/classes/java/main/com/codegym/model/Picture.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/build/classes/java/main/com/codegym/model/PictureForm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/build/classes/java/main/com/codegym/repositories/IPictureRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/build/classes/java/main/com/codegym/repositories/Impl/PictureRepositoryImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/build/classes/java/main/com/codegym/service/IPictureService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/build/classes/java/main/com/codegym/service/Impl/PictureServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/build/libs/UploadFile-1.0.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/src/main/java/com/codegym/AppConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/src/main/java/com/codegym/AppInit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/src/main/java/com/codegym/controller/PictureController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/src/main/java/com/codegym/model/Picture.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/src/main/java/com/codegym/model/PictureForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/src/main/java/com/codegym/repositories/IPictureRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/src/main/java/com/codegym/repositories/Impl/PictureRepositoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/src/main/java/com/codegym/service/IPictureService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/src/main/java/com/codegym/service/Impl/PictureServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/src/main/resources/global_config_app.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/src/main/webapp/WEB-INF/views/create.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UploadFile/src/main/webapp/WEB-INF/views/index.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/build/classes/java/main/com/codegym/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/build/classes/java/main/com/codegym/AppInit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/build/classes/java/main/com/codegym/controller/PictureController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/build/classes/java/main/com/codegym/model/Picture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/build/classes/java/main/com/codegym/model/PictureForm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/build/classes/java/main/com/codegym/repositories/IPictureRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/build/classes/java/main/com/codegym/repositories/Impl/PictureRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/build/classes/java/main/com/codegym/service/IPictureService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/build/classes/java/main/com/codegym/service/Impl/PictureServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/build/libs/UploadFile-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/build/libs/UploadFile-1.0.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/build/resources/main/global_config_app.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/src/main/java/com/codegym/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/src/main/java/com/codegym/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/src/main/java/com/codegym/controller/PictureController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/src/main/java/com/codegym/model/Picture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/src/main/java/com/codegym/model/PictureForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/src/main/java/com/codegym/repositories/IPictureRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/src/main/java/com/codegym/repositories/Impl/PictureRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/src/main/java/com/codegym/service/IPictureService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/src/main/java/com/codegym/service/Impl/PictureServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/src/main/resources/global_config_app.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/UploadFile-susscess/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/build/classes/java/main/com/codegym/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/build/classes/java/main/com/codegym/AppInit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/build/classes/java/main/com/codegym/controller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/build/classes/java/main/com/codegym/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/build/classes/java/main/com/codegym/repositories/IUserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/build/classes/java/main/com/codegym/repositories/Impl/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/build/classes/java/main/com/codegym/service/IUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/build/classes/java/main/com/codegym/service/Impl/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/build/classes/java/main/com/codegym/validator/UserValidation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/build/libs/signup-validate-cookie-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/build/libs/signup-validate-cookie-1.0.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/build/resources/main/ValidationMessage.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/src/main/java/com/codegym/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/src/main/java/com/codegym/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/src/main/java/com/codegym/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/src/main/java/com/codegym/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/src/main/java/com/codegym/repositories/IUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/src/main/java/com/codegym/repositories/Impl/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/src/main/java/com/codegym/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/src/main/java/com/codegym/service/Impl/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/src/main/java/com/codegym/validator/UserValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/src/main/resources/ValidationMessage.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/src/main/webapp/WEB-INF/views/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/src/main/webapp/WEB-INF/views/sign-in.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/src/main/webapp/WEB-INF/views/sign-up.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SUSSCESS/signup-validate-cookie/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/AppInit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/AppPictureConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/AppUserConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/controller/PictureController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/repositories/IPictureRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/repositories/IUserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/repositories/Impl/PictureRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/repositories/Impl/UserRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/service/IPictureService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/service/IUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/service/Impl/PictureServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/service/Impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/build/libs/UploadFile-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/build/libs/UploadFile-1.0.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/build/resources/main/global_config_app.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/src/main/java/com/codegym/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/src/main/java/com/codegym/AppUserConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/src/main/java/com/codegym/controller/PictureController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/src/main/java/com/codegym/model/UserModel/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/src/main/java/com/codegym/repositories/User/Impl/UserRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/src/main/java/com/codegym/service/IPictureService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/src/main/java/com/codegym/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/src/main/java/com/codegym/service/Impl/PictureServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/src/main/java/com/codegym/service/Impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/src/main/resources/global_config_app.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/UploadFile-susscess/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/build/classes/java/main/com/codegym/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/build/classes/java/main/com/codegym/AppInit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/build/classes/java/main/com/codegym/controller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/build/classes/java/main/com/codegym/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/build/classes/java/main/com/codegym/repositories/IUserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/build/classes/java/main/com/codegym/repositories/Impl/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/build/classes/java/main/com/codegym/service/IUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/build/classes/java/main/com/codegym/service/Impl/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/build/classes/java/main/com/codegym/validator/UserValidation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/build/libs/signup-validate-cookie-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/build/libs/signup-validate-cookie-1.0.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/build/resources/main/ValidationMessage.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/src/main/java/com/codegym/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/src/main/java/com/codegym/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/src/main/java/com/codegym/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/src/main/java/com/codegym/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/src/main/java/com/codegym/repositories/IUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/src/main/java/com/codegym/repositories/Impl/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/src/main/java/com/codegym/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/src/main/java/com/codegym/service/Impl/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/src/main/java/com/codegym/validator/UserValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/src/main/resources/ValidationMessage.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/src/main/webapp/WEB-INF/views/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/src/main/webapp/WEB-INF/views/sign-in.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/src/main/webapp/WEB-INF/views/sign-up.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/signup-validate-cookie/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codegym/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codegym/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/build/classes/java/main/com/codegym/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/build/classes/java/main/com/codegym/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/build/classes/java/main/com/codegym/repositories/Impl/PictureRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/build/classes/java/main/com/codegym/repositories/Impl/PictureRepositoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/build/libs/UploadFile-1.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/build/libs/UploadFile-1.0.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../clone/demo student -hoacg/Demo_WBDS_All" beforeDir="false" afterPath="$PROJECT_DIR$/../clone/demo student -hoacg/Demo_WBDS_All" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../clone/uploadFile-khactung/c1119h1-demo-jpa" beforeDir="false" afterPath="$PROJECT_DIR$/../clone/uploadFile-khactung/c1119h1-demo-jpa" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../clone/validate-info-user/validate-infor-user" beforeDir="false" afterPath="$PROJECT_DIR$/../clone/validate-info-user/validate-infor-user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cookie/signup-validate-cookie/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../cookie/signup-validate-cookie/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cookie/signup-validate-cookie/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../cookie/signup-validate-cookie/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cookie/signup-validate-cookie/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../cookie/signup-validate-cookie/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cookie/signup-validate-cookie/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../cookie/signup-validate-cookie/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cookie/signup-validate-cookie/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../cookie/signup-validate-cookie/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cookie/signup-validate-cookie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cookie/signup-validate-cookie/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cookie/signup-validate-cookie/build/classes/java/main/com/codegym/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../cookie/signup-validate-cookie/build/classes/java/main/com/codegym/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cookie/signup-validate-cookie/build/classes/java/main/com/codegym/service/Impl/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../cookie/signup-validate-cookie/build/classes/java/main/com/codegym/service/Impl/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cookie/signup-validate-cookie/build/libs/signup-validate-cookie-1.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/../cookie/signup-validate-cookie/build/libs/signup-validate-cookie-1.0.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cookie/signup-validate-cookie/src/main/java/com/codegym/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cookie/signup-validate-cookie/src/main/java/com/codegym/AppConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,7 +400,7 @@
       <updated>1586268285806</updated>
       <workItem from="1586268288108" duration="6623000" />
       <workItem from="1586301014212" duration="624000" />
-      <workItem from="1586303247399" duration="606000" />
+      <workItem from="1586303247399" duration="1884000" />
     </task>
     <servers />
   </component>
