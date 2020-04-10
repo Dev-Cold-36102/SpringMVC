@@ -2,6 +2,213 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce518430-3f3d-4343-9447-8f1643c58530" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/classes/java/main/com/codegym/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/classes/java/main/com/codegym/AppInit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/classes/java/main/com/codegym/AppProductConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/classes/java/main/com/codegym/AppUserConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/classes/java/main/com/codegym/model/ProductForm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/classes/java/main/com/codegym/model/ProductModel/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/classes/java/main/com/codegym/model/ProductModel/ProductForm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/classes/java/main/com/codegym/model/UserModel/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/classes/java/main/com/codegym/service/Impl/ProductServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/classes/java/main/com/codegym/validator/UserValidation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/resources/main/ValidationMessage.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/AppProductConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/AppUserConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/model/UserModel/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/repositories/User/IUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/repositories/User/Impl/UserRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/validator/UserValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/resources/ValidationMessage.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/webapp/WEB-INF/views/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/webapp/WEB-INF/views/product-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/webapp/WEB-INF/views/sign-in.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/webapp/WEB-INF/views/sign-up.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UploadFile-susscess/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/build/classes/java/main/com/codegym/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/build/classes/java/main/com/codegym/AppInit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/build/classes/java/main/com/codegym/controller/PictureController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/build/classes/java/main/com/codegym/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/build/classes/java/main/com/codegym/model/PictureModel/Picture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/build/classes/java/main/com/codegym/model/PictureModel/PictureForm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/build/classes/java/main/com/codegym/model/UserModel/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/build/classes/java/main/com/codegym/repositories/Picture/IPictureRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/build/classes/java/main/com/codegym/repositories/Picture/Impl/PictureRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/build/classes/java/main/com/codegym/repositories/User/IUserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/build/classes/java/main/com/codegym/repositories/User/Impl/UserRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/build/classes/java/main/com/codegym/service/IPictureService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/build/classes/java/main/com/codegym/service/IUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/build/classes/java/main/com/codegym/service/Impl/PictureServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/build/classes/java/main/com/codegym/service/Impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/build/classes/java/main/com/codegym/validator/UserValidation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/build/libs/UploadFile-1.0.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/build/resources/main/ValidationMessage.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/build/resources/main/global_config_app.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/java/com/codegym/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/java/com/codegym/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/java/com/codegym/controller/PictureController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/java/com/codegym/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/java/com/codegym/model/PictureModel/Picture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/java/com/codegym/model/UserModel/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/java/com/codegym/repositories/Picture/IPictureRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/java/com/codegym/repositories/Picture/Impl/PictureRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/java/com/codegym/repositories/User/IUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/java/com/codegym/repositories/User/Impl/UserRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/java/com/codegym/service/IPictureService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/java/com/codegym/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/java/com/codegym/service/Impl/PictureServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/java/com/codegym/service/Impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/java/com/codegym/validator/UserValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/resources/ValidationMessage.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/resources/global_config_app.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/webapp/WEB-INF/views/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/webapp/WEB-INF/views/sign-in.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/webapp/WEB-INF/views/sign-up.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/libs/CART-VALIDATE-COOKIE-1.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/libs/CART-VALIDATE-COOKIE-1.0.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/AppInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/AppInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/model/ProductModel/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/model/ProductForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TEST/multiple-Table-/src/main/java/com/codegym/model/PictureModel/PictureForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/repository/IProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/repositories/Product/IProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/repository/IUserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/repository/Impl/ProductRepositoryImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/repositories/Product/Impl/ProductRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/repository/Impl/UserRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/service/IProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/service/IProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/service/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/service/IUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/service/Impl/ProductServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/service/Impl/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/service/Impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/service/Impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/build/classes/java/main/com/codegym/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/build/classes/java/main/com/codegym/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/build/classes/java/main/com/codegym/repositories/Impl/PictureRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/build/classes/java/main/com/codegym/repositories/Impl/PictureRepositoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UploadFile-susscess/build/libs/UploadFile-1.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/../UploadFile-susscess/build/libs/UploadFile-1.0.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/codegym/service/Impl/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/service/Impl/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/signup-validate-cookie-1.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/signup-validate-cookie-1.0.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.gradle/5.2.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/AppInit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/AppPictureConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/AppUserConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/controller/PictureController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/repositories/IPictureRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/repositories/IUserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/repositories/Impl/PictureRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/repositories/Impl/UserRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/service/IPictureService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/service/IUserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/service/Impl/PictureServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/build/classes/java/main/com/codegym/service/Impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/build/libs/UploadFile-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/build/libs/UploadFile-1.0.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/build/resources/main/global_config_app.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/src/main/java/com/codegym/AppInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/src/main/java/com/codegym/AppUserConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/src/main/java/com/codegym/controller/PictureController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/src/main/java/com/codegym/model/UserModel/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/src/main/java/com/codegym/repositories/User/Impl/UserRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/src/main/java/com/codegym/service/IPictureService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/src/main/java/com/codegym/service/IUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/src/main/java/com/codegym/service/Impl/PictureServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/src/main/java/com/codegym/service/Impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/src/main/resources/global_config_app.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/src/main/webapp/WEB-INF/views/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/src/main/webapp/WEB-INF/views/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST/UploadFile-susscess/src/main/webapp/index.jsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../clone/demo student -hoacg/Demo_WBDS_All" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/demo student -hoacg/Demo_WBDS_All" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../clone/uploadFile-khactung/c1119h1-demo-jpa" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/uploadFile-khactung/c1119h1-demo-jpa" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../clone/validate-info-user/validate-infor-user" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/validate-info-user/validate-infor-user" afterDir="false" />
@@ -40,7 +247,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -49,7 +255,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../UploadFile-susscess" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../clone/demo student -hoacg/Demo_WBDS_All" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.71575844" />
@@ -142,24 +348,6 @@
       </method>
     </configuration>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <option name="contentProportion" value="0.020361992" />
-          <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-            </expand>
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -179,11 +367,12 @@
       <workItem from="1586245071455" duration="614000" />
       <workItem from="1586246118253" duration="1849000" />
       <workItem from="1586301014459" duration="616000" />
+      <workItem from="1586418238680" duration="8209000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -201,74 +390,78 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1248" y="252" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1586058855078" />
-    <state x="1056" y="135" width="424" height="491" key="FileChooserDialogImpl" timestamp="1586269017523">
+    <state x="0" y="464" width="1045" height="158" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586419338336">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1056" y="135" width="424" height="491" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1586269017523" />
-    <state width="1806" height="183" key="GridCell.Tab.0.bottom" timestamp="1586075108454">
+    <state x="0" y="464" width="1045" height="158" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586419338336" />
+    <state x="1056" y="135" width="424" height="491" key="FileChooserDialogImpl" timestamp="1586438974692">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1806" height="183" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586075108454" />
-    <state width="1806" height="183" key="GridCell.Tab.0.center" timestamp="1586075108454">
+    <state x="1056" y="135" width="424" height="491" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1586438974692" />
+    <state width="914" height="351" key="GridCell.Tab.0.bottom" timestamp="1586438975783">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1806" height="183" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586075108454" />
-    <state width="1806" height="183" key="GridCell.Tab.0.left" timestamp="1586075108453">
+    <state width="914" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586438975783" />
+    <state width="914" height="351" key="GridCell.Tab.0.center" timestamp="1586438975782">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1806" height="183" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586075108453" />
-    <state width="1806" height="183" key="GridCell.Tab.0.right" timestamp="1586075108454">
+    <state width="914" height="351" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586438975782" />
+    <state width="914" height="351" key="GridCell.Tab.0.left" timestamp="1586438975782">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1806" height="183" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586075108454" />
-    <state width="1806" height="183" key="GridCell.Tab.1.bottom" timestamp="1586075108456">
+    <state width="914" height="351" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586438975782" />
+    <state width="914" height="351" key="GridCell.Tab.0.right" timestamp="1586438975783">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1806" height="183" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586075108456" />
-    <state width="1806" height="183" key="GridCell.Tab.1.center" timestamp="1586075108455">
+    <state width="914" height="351" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586438975783" />
+    <state width="914" height="351" key="GridCell.Tab.1.bottom" timestamp="1586438975783">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1806" height="183" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586075108455" />
-    <state width="1806" height="183" key="GridCell.Tab.1.left" timestamp="1586075108455">
+    <state width="914" height="351" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586438975783" />
+    <state width="914" height="351" key="GridCell.Tab.1.center" timestamp="1586438975783">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1806" height="183" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586075108455" />
-    <state width="1806" height="183" key="GridCell.Tab.1.right" timestamp="1586075108455">
+    <state width="914" height="351" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586438975783" />
+    <state width="914" height="351" key="GridCell.Tab.1.left" timestamp="1586438975783">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1806" height="183" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586075108455" />
-    <state width="1806" height="183" key="GridCell.Tab.2.bottom" timestamp="1586075108457">
+    <state width="914" height="351" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586438975783" />
+    <state width="914" height="351" key="GridCell.Tab.1.right" timestamp="1586438975783">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1806" height="183" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586075108457" />
-    <state width="1806" height="183" key="GridCell.Tab.2.center" timestamp="1586075108456">
+    <state width="914" height="351" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586438975783" />
+    <state width="914" height="351" key="GridCell.Tab.2.bottom" timestamp="1586438975784">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1806" height="183" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586075108456" />
-    <state width="1806" height="183" key="GridCell.Tab.2.left" timestamp="1586075108456">
+    <state width="914" height="351" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586438975784" />
+    <state width="914" height="351" key="GridCell.Tab.2.center" timestamp="1586438975783">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1806" height="183" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586075108456" />
-    <state width="1806" height="183" key="GridCell.Tab.2.right" timestamp="1586075108457">
+    <state width="914" height="351" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586438975783" />
+    <state width="914" height="351" key="GridCell.Tab.2.left" timestamp="1586438975783">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1806" height="183" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586075108457" />
-    <state width="1806" height="183" key="GridCell.Tab.3.bottom" timestamp="1586075108459">
+    <state width="914" height="351" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586438975783" />
+    <state width="914" height="351" key="GridCell.Tab.2.right" timestamp="1586438975783">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1806" height="183" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586075108459" />
-    <state width="1806" height="183" key="GridCell.Tab.3.center" timestamp="1586075108458">
+    <state width="914" height="351" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586438975783" />
+    <state width="866" height="183" key="GridCell.Tab.3.bottom" timestamp="1586438975780">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1806" height="183" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586075108458" />
-    <state width="1806" height="183" key="GridCell.Tab.3.left" timestamp="1586075108458">
+    <state width="866" height="183" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586438975780" />
+    <state width="866" height="183" key="GridCell.Tab.3.center" timestamp="1586438975780">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1806" height="183" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586075108458" />
-    <state width="1806" height="183" key="GridCell.Tab.3.right" timestamp="1586075108458">
+    <state width="866" height="183" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586438975780" />
+    <state width="866" height="183" key="GridCell.Tab.3.left" timestamp="1586438975780">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1806" height="183" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586075108458" />
+    <state width="866" height="183" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586438975780" />
+    <state width="866" height="183" key="GridCell.Tab.3.right" timestamp="1586438975780">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="866" height="183" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586438975780" />
     <state x="449" y="175" width="1022" height="737" key="SettingsEditor" timestamp="1586056623126">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="918f6cf4-613a-4ecf-98b3-784de9aa762b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/classes/java/main/com/codegym/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/classes/java/main/com/codegym/AppInit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/classes/java/main/com/codegym/AppProductConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/classes/java/main/com/codegym/AppUserConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/classes/java/main/com/codegym/model/ProductForm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/classes/java/main/com/codegym/model/ProductModel/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/classes/java/main/com/codegym/model/ProductModel/ProductForm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/classes/java/main/com/codegym/model/UserModel/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/classes/java/main/com/codegym/service/Impl/ProductServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/classes/java/main/com/codegym/validator/UserValidation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/resources/main/ValidationMessage.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/AppProductConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/AppUserConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/model/UserModel/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/repositories/User/IUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/repositories/User/Impl/UserRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/validator/UserValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/resources/ValidationMessage.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/webapp/WEB-INF/views/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/webapp/WEB-INF/views/product-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/webapp/WEB-INF/views/sign-in.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/webapp/WEB-INF/views/sign-up.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/libs/CART-VALIDATE-COOKIE-1.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/build/libs/CART-VALIDATE-COOKIE-1.0.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/AppInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/AppInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/model/ProductModel/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/model/ProductForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/repository/IProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/repositories/Product/IProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/repository/IUserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/repository/Impl/ProductRepositoryImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/repositories/Product/Impl/ProductRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/repository/Impl/UserRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/service/IProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/service/IProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/service/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/service/IUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/service/Impl/ProductServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/service/Impl/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/service/Impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CART-VALIDATE-COOKIE/src/main/java/com/codegym/service/Impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/build/classes/java/main/com/codegym/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/build/classes/java/main/com/codegym/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/build/classes/java/main/com/codegym/repositories/Impl/PictureRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/build/classes/java/main/com/codegym/repositories/Impl/PictureRepositoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/build/libs/UploadFile-1.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/UploadFile-susscess/build/libs/UploadFile-1.0.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/build/classes/java/main/com/codegym/service/Impl/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/build/classes/java/main/com/codegym/service/Impl/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/build/libs/signup-validate-cookie-1.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/build/libs/signup-validate-cookie-1.0.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/demo student -hoacg/Demo_WBDS_All" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/demo student -hoacg/Demo_WBDS_All" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/uploadFile-khactung/c1119h1-demo-jpa" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/uploadFile-khactung/c1119h1-demo-jpa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/validate-info-user/validate-infor-user" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/validate-info-user/validate-infor-user" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="upload@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="upload@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="upload@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="upload: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="User@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="User@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="User@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="User: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1aCiWSn44jVTarbvCsWpzZQre8Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../multiple-Table-" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.13422817" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.codegym.validator" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.33" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.33" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080//signin" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : com.codegym : UploadFile-1.0.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_UploadFile_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="40145" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.codegym : UploadFile-1.0.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="918f6cf4-613a-4ecf-98b3-784de9aa762b" name="Default Changelist" comment="" />
+      <created>1586246007480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586246007480</updated>
+      <workItem from="1586246009826" duration="10045000" />
+      <workItem from="1586258038732" duration="838000" />
+      <workItem from="1586269020218" duration="4801000" />
+      <workItem from="1586301014057" duration="2495000" />
+      <workItem from="1586305944391" duration="32000" />
+      <workItem from="1586305984752" duration="20436000" />
+      <workItem from="1586388845359" duration="632000" />
+      <workItem from="1586424888739" duration="2847000" />
+      <workItem from="1586427757423" duration="823000" />
+      <workItem from="1586428590091" duration="1087000" />
+      <workItem from="1586429700030" duration="701000" />
+      <workItem from="1586430410302" duration="1886000" />
+    </task>
+    <task id="LOCAL-00001" summary="add">
+      <created>1586305636394</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586305636394</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1069" y="221" width="732" height="644" key="#Inspections" timestamp="1586429678747">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1069" y="221" width="732" height="644" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1586429678747" />
+    <state x="836" y="198" width="906" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586431683772">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="836" y="198" width="906" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586431683772" />
+    <state x="1243" y="252" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1586431586229">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1243" y="252" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1586431586229" />
+    <state x="862" y="467" width="1058" height="152" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586321683212">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="862" y="467" width="1058" height="152" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586321683212" />
+    <state x="693" y="289" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586427474881">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="289" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586427474881" />
+    <state x="796" y="114" width="1114" height="858" key="CommitChangelistDialog2" timestamp="1586305632430">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="796" y="114" width="1114" height="858" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1586305632430" />
+    <state x="1218" y="298" width="424" height="491" key="FileChooserDialogImpl" timestamp="1586432490970">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1218" y="298" width="424" height="491" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1586432490970" />
+    <state width="856" height="283" key="GridCell.Tab.0.bottom" timestamp="1586432493475">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="856" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586432493475" />
+    <state width="856" height="283" key="GridCell.Tab.0.center" timestamp="1586432493474">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="856" height="283" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586432493474" />
+    <state width="856" height="283" key="GridCell.Tab.0.left" timestamp="1586432493474">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="856" height="283" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586432493474" />
+    <state width="856" height="283" key="GridCell.Tab.0.right" timestamp="1586432493475">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="856" height="283" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586432493475" />
+    <state width="856" height="283" key="GridCell.Tab.1.bottom" timestamp="1586432493476">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="856" height="283" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586432493476" />
+    <state width="856" height="283" key="GridCell.Tab.1.center" timestamp="1586432493476">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="856" height="283" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586432493476" />
+    <state width="856" height="283" key="GridCell.Tab.1.left" timestamp="1586432493475">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="856" height="283" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586432493475" />
+    <state width="856" height="283" key="GridCell.Tab.1.right" timestamp="1586432493476">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="856" height="283" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586432493476" />
+    <state width="856" height="283" key="GridCell.Tab.2.bottom" timestamp="1586432493478">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="856" height="283" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586432493478" />
+    <state width="856" height="283" key="GridCell.Tab.2.center" timestamp="1586432493477">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="856" height="283" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586432493477" />
+    <state width="856" height="283" key="GridCell.Tab.2.left" timestamp="1586432493477">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="856" height="283" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586432493477" />
+    <state width="856" height="283" key="GridCell.Tab.2.right" timestamp="1586432493477">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="856" height="283" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586432493477" />
+    <state width="856" height="283" key="GridCell.Tab.3.bottom" timestamp="1586432493479">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="856" height="283" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586432493479" />
+    <state width="856" height="283" key="GridCell.Tab.3.center" timestamp="1586432493478">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="856" height="283" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586432493478" />
+    <state width="856" height="283" key="GridCell.Tab.3.left" timestamp="1586432493478">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="856" height="283" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586432493478" />
+    <state width="856" height="283" key="GridCell.Tab.3.right" timestamp="1586432493479">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="856" height="283" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586432493479" />
+    <state x="449" y="175" width="1022" height="737" key="SettingsEditor" timestamp="1586430435101">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="449" y="175" width="1022" height="737" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1586430435101" />
+    <state x="1035" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1586305639446">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1035" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1586305639446" />
+    <state width="480" height="540" key="XDebugger.FullValuePopup" timestamp="1586256024582">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="480" height="540" key="XDebugger.FullValuePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1586256024582" />
+    <state x="834" y="427" width="367" height="283" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1586323040205">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="834" y="427" width="367" height="283" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1080@0.0.1920.1080" timestamp="1586323040205" />
+    <state x="693" y="325" width="524" height="437" key="extract.method.dialog" timestamp="1586307140620">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="325" width="524" height="437" key="extract.method.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586307140620" />
+    <state x="538" y="133" width="1372" height="820" key="new project wizard" timestamp="1586268285771">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="538" y="133" width="1372" height="820" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1586268285771" />
+    <state x="1103" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1586250740826">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1103" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1586250740826" />
+  </component>
+</project>
