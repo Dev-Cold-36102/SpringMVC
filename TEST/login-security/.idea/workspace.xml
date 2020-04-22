@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="deb11790-41da-4b6d-a251-6eaa808a75c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CART/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.gradle/6.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.gradle/6.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.gradle/6.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.gradle/6.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/classes/java/main/com/codegym/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/classes/java/main/com/codegym/AppInit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/classes/java/main/com/codegym/controller/Product/ProductController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/classes/java/main/com/codegym/controller/User/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/classes/java/main/com/codegym/model/ProductModel/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/classes/java/main/com/codegym/model/ProductModel/ProductForm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/classes/java/main/com/codegym/model/UserModel/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/classes/java/main/com/codegym/repositories/Product/IProductRepo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/classes/java/main/com/codegym/repositories/Product/IProductRepoJPA_OLD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/classes/java/main/com/codegym/repositories/Product/Impl/ProductRepoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/classes/java/main/com/codegym/repositories/User/IUserRepo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/classes/java/main/com/codegym/repositories/User/IUserRepoJPA_OLD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/classes/java/main/com/codegym/repositories/User/Impl/UserRepoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/classes/java/main/com/codegym/service/Product/IProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/classes/java/main/com/codegym/service/Product/Impl/ProductServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/classes/java/main/com/codegym/service/User/IUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/classes/java/main/com/codegym/service/User/Impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/classes/java/main/com/codegym/validator/UserValidation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/libs/sec-i18n-ajax-validate-1.0.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/resources/main/ValidationMessage.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/resources/main/assets/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/resources/main/global_config_app.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/java/com/codegym/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/java/com/codegym/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/java/com/codegym/AppSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/java/com/codegym/AppSecurityInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/java/com/codegym/controller/Product/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/java/com/codegym/controller/User/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/java/com/codegym/model/ProductModel/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/java/com/codegym/model/ProductModel/ProductForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/java/com/codegym/model/UserModel/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/java/com/codegym/repositories/Product/IProductRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/java/com/codegym/repositories/Product/IProductRepoJPA_OLD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/java/com/codegym/repositories/Product/Impl/ProductRepoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/java/com/codegym/repositories/User/IUserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/java/com/codegym/repositories/User/IUserRepoJPA_OLD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/java/com/codegym/repositories/User/Impl/UserRepoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/java/com/codegym/service/Product/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/java/com/codegym/service/Product/Impl/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/java/com/codegym/service/User/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/java/com/codegym/service/User/Impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/java/com/codegym/validator/UserValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/resources/ValidationMessage.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/resources/assets/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/resources/global_config_app.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/webapp/WEB-INF/views/Product/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/webapp/WEB-INF/views/Product/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/webapp/WEB-INF/views/User/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/webapp/WEB-INF/views/User/sign-in.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/webapp/WEB-INF/views/User/sign-up.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CART/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/AppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/AppInit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/AuthorityType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/model/Authority.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/model/PdfUserDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/repositories/IUserRepo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/repositories/UserRepoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/service/UserDetailsService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/codegym/service/UserDetailsServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/login-security-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/ValidationMessage.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/global_config_app.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/AuthorityType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/model/Authority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/model/PdfUserDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/repositories/IUserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/repositories/UserRepoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/service/UserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/service/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ValidationMessage.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/global_config_app.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../security/security-form/src/main/webapp/WEB-INF/views/a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SUSSCESS/signup-validate-cookie/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/demo student -hoacg/Demo_WBDS_All" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/demo student -hoacg/Demo_WBDS_All" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/i18n/spring-internalization-blog" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/i18n/spring-internalization-blog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/uploadFile-khactung/c1119h1-demo-jpa" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/uploadFile-khactung/c1119h1-demo-jpa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clone/validate-info-user/validate-infor-user" beforeDir="false" afterPath="$PROJECT_DIR$/../../clone/validate-info-user/validate-infor-user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i18n/untitled/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../i18n/untitled/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i18n/untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../i18n/untitled/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../security/security-form/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../security/security-form/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../security/security-form/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../security/security-form/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../security/security-form/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../security/security-form/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../security/security-form/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../security/security-form/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../security/security-form/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../security/security-form/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1aQJCP6zcmGXFmimGEYLf3i3J5P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CART" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.53" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.53" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/login" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : com.codegym : login-security-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_login-security" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="40685" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.codegym : login-security-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="deb11790-41da-4b6d-a251-6eaa808a75c5" name="Default Changelist" comment="" />
+      <created>1586661755460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586661755460</updated>
+      <workItem from="1586661758935" duration="4422000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1341" y="430" width="187" height="226" key="#Assign_Data_Sources" timestamp="1586663389533">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1341" y="430" width="187" height="226" key="#Assign_Data_Sources/0.0.1920.1080@0.0.1920.1080" timestamp="1586663389533" />
+    <state x="836" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586666116941">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="836" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586666116941" />
+    <state x="1248" y="247" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1586663927779">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1248" y="247" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1586663927779" />
+    <state x="1128" y="327" width="605" height="439" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586664121941">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1128" y="327" width="605" height="439" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586664121941" />
+    <state x="1223" y="298" width="424" height="491" key="FileChooserDialogImpl" timestamp="1586666321720">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1223" y="298" width="424" height="491" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1586666321720" />
+    <state width="619" height="284" key="GridCell.Tab.0.bottom" timestamp="1586666339715">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="619" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586666339715" />
+    <state width="619" height="284" key="GridCell.Tab.0.center" timestamp="1586666339715">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="619" height="284" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586666339715" />
+    <state width="619" height="284" key="GridCell.Tab.0.left" timestamp="1586666339715">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="619" height="284" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586666339715" />
+    <state width="619" height="284" key="GridCell.Tab.0.right" timestamp="1586666339715">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="619" height="284" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586666339715" />
+    <state width="619" height="284" key="GridCell.Tab.1.bottom" timestamp="1586666339716">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="619" height="284" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586666339716" />
+    <state width="619" height="284" key="GridCell.Tab.1.center" timestamp="1586666339715">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="619" height="284" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586666339715" />
+    <state width="619" height="284" key="GridCell.Tab.1.left" timestamp="1586666339715">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="619" height="284" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586666339715" />
+    <state width="619" height="284" key="GridCell.Tab.1.right" timestamp="1586666339716">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="619" height="284" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586666339716" />
+    <state width="619" height="284" key="GridCell.Tab.2.bottom" timestamp="1586666339716">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="619" height="284" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586666339716" />
+    <state width="619" height="284" key="GridCell.Tab.2.center" timestamp="1586666339716">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="619" height="284" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586666339716" />
+    <state width="619" height="284" key="GridCell.Tab.2.left" timestamp="1586666339716">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="619" height="284" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586666339716" />
+    <state width="619" height="284" key="GridCell.Tab.2.right" timestamp="1586666339716">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="619" height="284" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586666339716" />
+    <state width="619" height="284" key="GridCell.Tab.3.bottom" timestamp="1586666339717">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="619" height="284" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586666339717" />
+    <state width="619" height="284" key="GridCell.Tab.3.center" timestamp="1586666339716">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="619" height="284" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586666339716" />
+    <state width="619" height="284" key="GridCell.Tab.3.left" timestamp="1586666339716">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="619" height="284" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586666339716" />
+    <state width="619" height="284" key="GridCell.Tab.3.right" timestamp="1586666339717">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="619" height="284" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586666339717" />
+  </component>
+</project>
