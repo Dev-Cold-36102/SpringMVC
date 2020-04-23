@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <!--    <meta charset="UTF-8">-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>home</title>
+</head>
+<body>
+<table style="width: 1200px">
+    <thead>
+    <tr>
+        <th scope="col"><h2 th:text="'Thanh pho '+${city.getName()}"></h2></th>
+        <th scope="col">
+            <button><a th:href="@{/home}"> xem danh sach thanh pho</a></button>
+        </th>
+    </tr>
+    <tr>
+        <td>.</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>.</td>
+        <td></td>
+    </tr>
+
+    </thead>
+    <tbody>
+    <tr>
+        <td><p th:text="'Ten: '+${city.name}"></p></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><p th:text="'Quoc gia: '+${city.getCountry().name}"></p></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><p th:text="'Dien tich: '+${city.area}"></p></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><p th:text="'Dan so: '+${city.popular}"></p></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><p th:text="'GDP: '+${city.gdp}"></p></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="2"><p th:text="'Gioi thieu: '+${city.description}"></p></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>
+            <table>
+                <tr>
+                    <td>
+                        <button><a th:href="@{/}">Chinh sua</a></button>
+                        <button th:href="@{/}"><a th:href="@{/}">Xoa</a></button>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    </tbody>
+</table>
+</body>
+</html>

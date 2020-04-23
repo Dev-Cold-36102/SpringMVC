@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Create city</title>
+</head>
+<body>
+<h2 th:text="'Sua thanh pho '+${city.name}"></h2>
+<br>
+<form th:object="${city}" th:action="@{'/edit/'+${city.id}}" method="post">
+    <p th:if="${#fields.hasErrors('area')}" th:errors="*{area}"></p>
+    <p th:if="${#fields.hasErrors('popular')}" th:errors="*{popular}"></p>
+    <p th:if="${#fields.hasErrors('gdp')}" th:errors="*{gdp}"></p>
+    <p th:if="${#fields.hasErrors('description')}" th:errors="*{description}"></p>
+    <table style="width: 1200px">
+        <tbody>
+        <tr>
+            <td><p>Ten:</p></td>
+            <td><input th:value="${city.name}" type="text"th:field="*{name}" equired=""></td>
+        </tr>
+        <tr>
+            <td><p>Quoc gia:</p></td>
+            <td>
+                <select th:field="*{country}" th:selected="${city.getCountry().name}">
+                    <option  th:each="c : ${countries}" th:value="${c.id}" th:text="${c.name}"></option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td><p>Dien tich:</p></td>
+            <td><input type="text" th:value="${city.area}" th:field="*{area}" required=""></td>
+        </tr>
+        <tr>
+            <td><p>Dan so:</p></td>
+            <td><input type="number" th:value="${city.popular}" th:field="*{popular}" equired=""></td>
+        </tr>
+        <tr>
+            <td><p>GDP:</p></td>
+            <td><input type="text" th:value="${city.gdp}" th:field="*{gdp}" equired=""></td>
+        </tr>
+        <tr>
+            <td><p>Gioi thieu:</p></td>
+            <td><textarea th:value="${city.description}" rows="3" th:field="*{description}" equired=""></textarea></td>
+        </tr>
+        </tbody>
+    </table>
+    <button type="submit">Luu</button>
+    <button><a href="/home"> Thoat</a></button>
+</form>
+</body>
+</html>

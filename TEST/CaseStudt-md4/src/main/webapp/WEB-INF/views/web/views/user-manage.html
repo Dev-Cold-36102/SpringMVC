@@ -246,8 +246,8 @@
 <!--                <p th:if="${#fields.hasErrors('username')}" th:errors="*{username}">error name</p>-->
 <!--                <p th:if="${#fields.hasErrors('password')}" th:errors="*{password}">error pass</p>-->
                 <div>
-                    <input class="fname" type="text" name="username" placeholder="username">
-                    <input type="text" name="email" placeholder="Email">
+                    <input class="fname" type="text" name="username" placeholder="username" required="">
+                    <input type="text" name="email" placeholder="Email" required="">
                     <p>ROLE</p>
                     <select name="role-user">
                         <option value="USER" selected="selected">USER</option>
@@ -255,8 +255,8 @@
                     </select>
                     <br>
                     <br>
-                    <input type="password" name="password" placeholder="Password">
-                    <input type="password" name="repassword" placeholder="Password Again">
+                    <input type="password" name="password" placeholder="Password" required="">
+                    <input type="password" name="repassword" placeholder="Password Again" required="">
 <!--                    <p th:text="${messageRePass}"></p>-->
                 </div>
                 <button type="submit" >ADD</button>
