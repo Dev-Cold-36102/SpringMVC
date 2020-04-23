@@ -6,6 +6,8 @@
           integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title>home</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
 </head>
 <body>
 <table style="width: 1200px">
@@ -57,8 +59,8 @@
             <table>
                 <tr>
                     <td>
-                        <button><a th:href="@{/}">Chinh sua</a></button>
-                        <button th:href="@{/}"><a th:href="@{/}">Xoa</a></button>
+                        <button><a th:href="@{'/edit/'+${city.id}}">Chinh sua</a></button>
+                        <button ><a onclick="doDelete(this.name)" th:name="${city.id}">Xoa</a></button>
                     </td>
                 </tr>
             </table>
@@ -67,4 +69,22 @@
     </tbody>
 </table>
 </body>
+<script>
+    function doDelete(id) {
+        const apiBaseUrl = 'http://localhost:8080';
+        if (confirm("Xac nhan xoa?")) {
+            {
+                $.ajax(`${apiBaseUrl}/delete/${id}`)
+                    .done(function (result) {
+                        // window.location.reload(); // then reload the page.(3)
+                        window.location.href=apiBaseUrl+'/home'; // then reload the page.(3)
+
+                    })
+                    .fail(function (error) {
+                        console.log(error);
+                    });
+            }
+        }
+    };
+</script>
 </html>

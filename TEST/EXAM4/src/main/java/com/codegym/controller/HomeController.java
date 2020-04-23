@@ -96,7 +96,7 @@ public class HomeController {
     public String doDelete(@PathVariable("id") Long id) {
         System.out.println(id);
         this.cityService.remove(id);
-        return "true";
+        return "redirect:/home";
     }
 
 }
